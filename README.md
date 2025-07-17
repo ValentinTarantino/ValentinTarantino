@@ -1,4 +1,6 @@
- <h1>Valentín Thomas Tarantino</h1>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="150" alt="Valentín Tarantino">
+  <h1>Valentín Thomas Tarantino</h1>
   <strong>Front-End Developer | React.js | JavaScript</strong>
 </div>
 
@@ -29,19 +31,37 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 ---
 
 ### ✨ Proyectos Destacados
-<div align="center">
-  <a href="https://github.com/ValentinTarantino/React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB&description_lines_count=2" alt="Pin de E-commerce Mundo Gamer"/>
-  </a>
-  <a href="https://github.com/ValentinTarantino/TurnoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB&description_lines_count=2" alt="Pin de TurnoApp"/>
-  </a>
-</div>
+
+<table width="100%">
+  <tr align="center">
+    <!-- Proyecto 1: Ecommerce -->
+    <td width="50%" valign="top">
+      <h3>🛒 Ecommerce Mundo Gamer</h3>
+      <p><em>Plataforma de e-commerce funcional construida con React, Context API y Firebase.</em></p>
+      <strong><a href="https://github.com/ValentinTarantino/React">🔗 Ver Código</a></strong>
+    </td>
+    <!-- Proyecto 2: TurnoApp -->
+    <td width="50%" valign="top">
+      <h3>📅 TurnoApp</h3>
+      <p><em>Aplicación de gestión de turnos con roles diferenciados y login de Google.</em></p>
+      <strong><a href="https://github.com/ValentinTarantino/TurnoApp">🔗 Ver Código</a></strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 Mis Estadísticas y Actividad
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinTarantino&theme=react" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinTarantino&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
