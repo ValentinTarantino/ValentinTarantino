@@ -1,59 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/valentín-tarantino/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://valentarantino.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=ValentinTarantino&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-    ¡Hola! Soy Valentín Tarantino
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-</div>
+# Valentín Thomas Tarantino
+### Front-End Developer | React.js | JavaScript
 
-<div align="center">
-  <a href="https://github.com/ValentinTarantino/React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=dark&bg_color=0d1117&border_color=30A3DC&title_color=30A3DC&icon_color=30A3DC" alt="Pin de E-commerce Mundo Gamer"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/valentín-tarantino/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/ValentinTarantino/TurnoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=dark&bg_color=0d1117&border_color=30A3DC&title_color=30A3DC&icon_color=30A3DC" alt="Pin de TurnoApp"/>
-  </a>
-</div>
-
----
-
-### :man_technologist: About Me
-
-Soy un Desarrollador Front-End de Buenos Aires, Argentina 🇦🇷, con una gran pasión por crear aplicaciones web interactivas y visualmente atractivas con **React.js**. Mi objetivo es transformar ideas en soluciones tecnológicas eficientes, escribiendo código limpio y escalable. Estoy en búsqueda activa de mi primer rol como Desarrollador Jr. para seguir creciendo y aportar valor a un equipo dinámico.
-
----
-
-### 🚀 My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,sass,bootstrap,firebase,nodejs,git,github,figma,vscode,vite&perline=7" />
+  <a href="https://valentarantino.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
----
+## 👋 Sobre Mí
+Soy un Desarrollador Front-End de Buenos Aires, Argentina 🇦🇷. Me especializo en la creación de aplicaciones web interactivas y eficientes con React. Mi enfoque está en escribir código limpio y mantenible para construir experiencias de usuario intuitivas. Actualmente, estoy buscando activamente mi primera oportunidad laboral en el sector IT.
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinTarantino&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+## 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,sass,bootstrap,firebase,nodejs,git,github,figma,vscode,vite" />
 </p>
-<p align="center">
-  <em>Puedes encontrar el código de mis proyectos pineados arriba o visitar mi <a href="https://valentarantino.vercel.app/">portafolio completo</a>.</em>
+
+## 🚀 Proyectos Destacados
+Una selección de mis trabajos. Puedes encontrar más en mi [portafolio completo](https://valentarantino.vercel.app/).
+
+- **Ecommerce Mundo Gamer**
+  - Plataforma de e-commerce funcional construida con React y Firebase, con carrito de compras y gestión de pedidos.
+
+- **TurnoApp**
+  - Aplicación para gestionar turnos con roles de Cliente y Profesional, utilizando React y login de Google con Firebase.
+  
+- **Informe Meteorológico**
+  - Aplicación de pronóstico del tiempo que consume la API de OpenWeatherMap, manejando peticiones asíncronas.
+
+## 📊 Estadísticas de GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
