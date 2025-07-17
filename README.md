@@ -1,29 +1,27 @@
-<table width="100%">
+<table width="100%" border="0" style="border:none;">
   <tr>
     <!-- COLUMNA IZQUIERDA (Estrecha) -->
-    <td width="30%" valign="top">
-      <div align="center">
-        <img src="URL_DE_TU_FOTO_DE_PERFIL" width="150" style="border-radius:50%;" alt="Valentín Tarantino">
-        <h2 align="center">Valentín Tarantino</h2>
-        <h4 align="center">Front-End Developer</h4>
-      </div>
+    <td width="30%" valign="top" align="center">
+      <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="150" alt="Valentín Tarantino">
+      <h2>Valentín Tarantino</h2>
+      <h4>Front-End Developer</h4>
       <hr>
       <h3>📍 Ubicación</h3>
       <p>Buenos Aires, Argentina 🇦🇷</p>
       
       <h3>🚀 Stack Principal</h3>
-      <ul>
-        <li>React.js & Next.js</li>
-        <li>JavaScript & TypeScript</li>
-        <li>HTML5 & CSS3/SASS</li>
-        <li>Firebase</li>
-        <li>Git & GitHub</li>
-      </ul>
+      <p align="left">
+        - React.js & Next.js<br>
+        - JavaScript & TypeScript<br>
+        - HTML5 & CSS3/SASS<br>
+        - Firebase<br>
+        - Git & GitHub
+      </p>
       <hr>
       <h3>📫 Contacto</h3>
       <p>
-        <a href="https://www.linkedin.com/in/valentín-tarantino/" target="_blank">LinkedIn</a><br>
-        <a href="https://valentarantino.vercel.app/" target="_blank">Portfolio</a><br>
+        <a href="https://www.linkedin.com/in/valentín-tarantino/" target="_blank">LinkedIn</a> | 
+        <a href="https://valentarantino.vercel.app/" target="_blank">Portfolio</a> | 
         <a href="mailto:zaheil444@gmail.com">Email</a>
       </p>
     </td>
@@ -38,10 +36,10 @@
       <h2>✨ Proyectos Destacados</h2>
       
       <a href="https://github.com/ValentinTarantino/React">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de E-commerce Mundo Gamer"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de E-commerce Mundo Gamer"/>
       </a>
       <a href="https://github.com/ValentinTarantino/TurnoApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de TurnoApp"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de TurnoApp"/>
       </a>
       
       <h2>📊 Mis Estadísticas</h2>
