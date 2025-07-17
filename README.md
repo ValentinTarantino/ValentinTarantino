@@ -51,17 +51,12 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 
 ---
 
-### 📊 Mis Estadísticas y Actividad
+### 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinTarantino&theme=react" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinTarantino&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://ghchart.rshah.org/ValentinTarantino" alt="Gráfico de Contribuciones de Valentín Tarantino" />
 </p>
