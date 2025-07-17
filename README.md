@@ -1,41 +1,53 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="120" style="border-radius:50%;" alt="Valentín Tarantino">
-  <h1>Valentín Tarantino</h1>
-  <strong>Front-End Developer</strong>
-  <p>React.js | JavaScript | TypeScript</p>
+<div align="right">
+  <a href="https://valentarantino.vercel.app/">Portfolio</a>
+   
+  <a href="https://www.linkedin.com/in/valentín-tarantino/">LinkedIn</a>
+   
+  <a href="mailto:zaheil444@gmail.com">Contacto</a>
 </div>
 
 <br>
+<br>
+<br>
+
+# Valentín Tarantino
+
+## Front-End Developer
 
 ---
 
-### Sobre Mí
-> Soy un desarrollador de Argentina 🇦🇷, apasionado por la creación de interfaces web limpias y funcionales. Mi objetivo es transformar ideas complejas en soluciones elegantes y eficientes, con un fuerte enfoque en el ecosistema de React. Actualmente estoy en búsqueda activa de mi primera oportunidad laboral.
+Soy un desarrollador de software de Buenos Aires, Argentina, con un enfoque en la creación de experiencias web interactivas y eficientes. Mi trabajo se centra en el ecosistema de React, donde busco transformar ideas complejas en soluciones limpias y funcionales.
+
+Actualmente estoy en búsqueda activa de mi primera oportunidad profesional para aportar mi pasión y seguir creciendo.
+
+<br>
+
+### Proyectos Clave
+
+1.  **Ecommerce Mundo Gamer**
+    <br>
+    <sub>Plataforma de e-commerce completa con gestión de productos y carrito.</sub>
+    <br>
+    <sub>[→ Ver Repositorio](https://github.com/ValentinTarantino/React)</sub>
+
+2.  **TurnoApp**
+    <br>
+    <sub>Aplicación de gestión de turnos con roles y login de Google.</sub>
+    <br>
+    <sub>[→ Ver Repositorio](https://github.com/ValentinTarantino/TurnoApp)</sub>
+
+<br>
 
 ### Stack Tecnológico
-<p align="center">
-  `React` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SASS` `Firebase` `Git` `GitHub`
-</p>
 
-### Proyectos Destacados
+> React, Next.js, JavaScript, TypeScript, HTML5, CSS3/SASS, Firebase, Git.
 
-- **🛒 Ecommerce Mundo Gamer**
-  - Plataforma de e-commerce funcional con gestión de productos y carrito.
-  - **[Ver Repositorio →](https://github.com/ValentinTarantino/React)**
-
-- **📅 TurnoApp**
-  - Aplicación de gestión de turnos con roles y login de Google.
-  - **[Ver Repositorio →](https://github.com/ValentinTarantino/TurnoApp)**
-
-### Actividad en GitHub
-<p align="center">
-  <img src="https://ghchart.rshah.org/ValentinTarantino" alt="Gráfico de Contribuciones" />
-</p>
+<br>
+<br>
+<br>
+<br>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/valentín-tarantino/">LinkedIn</a>   |  
-  <a href="https://valentarantino.vercel.app/">Portfolio</a>   |  
-  <a href="mailto:zaheil444@gmail.com">Email</a>
-</p>
+<div align="center">
+  <sub>© 2024 Valentín Tarantino</sub>
+</div>
