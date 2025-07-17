@@ -1,49 +1,50 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="120" alt="Valentín Tarantino" style="border-radius: 50%;">
-  <h1>Valentín Tarantino</h1>
-  <p><strong>Front-End Developer | React.js | JavaScript</strong></p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/valentín-tarantino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://valentarantino.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=world&logoColor=white"></a>
-    <a href="mailto:zaheil444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
-</div>
-
----
-
-<table width="100%">
-  <tr width="100%">
-    <td width="50%" valign="top">
-      <h3>👋 Sobre Mí</h3>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Valentín Tarantino</h1>
+      <h3>Front-End Developer | React.js</h3>
       <p>
-        Soy un desarrollador de Argentina 🇦🇷, apasionado por construir experiencias web interactivas. Mi especialidad es React, y me encanta transformar ideas en código limpio y funcional. Busco mi primera oportunidad laboral para crecer y aportar valor.
+        ¡Hola! 👋 Soy un desarrollador de Argentina apasionado por crear interfaces web interactivas y eficientes. Mi especialidad es el ecosistema de React, y disfruto transformando ideas en código limpio y funcional. Actualmente estoy buscando mi primera oportunidad para unirme a un equipo innovador.
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Stack Principal</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,firebase,html,css" />
-      </p>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,firebase" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+      </div>
     </td>
   </tr>
 </table>
 
----
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Proyectos</h3>
+      <ul>
+        <li><a href="https://github.com/ValentinTarantino/React">🛒 Ecommerce Mundo Gamer</a></li>
+        <li><a href="https://github.com/ValentinTarantino/TurnoApp">📅 TurnoApp</a></li>
+        <li><em>... y más en mi portafolio!</em></li>
+      </ul>
+    </td>
+    <td width="67%" valign="top">
+      <h3>Actividad Reciente</h3>
+      <a href="https://github.com/ValentinTarantino">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/ValentinTarantino">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinTarantino&theme=vision-friendly-dark&hide_border=true&color=6495ED" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### ✨ Proyectos Destacados
 <div align="center">
-  <a href="https://github.com/ValentinTarantino/React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=blueberry&hide_border=true&title_color=8957e5&icon_color=8957e5" alt="Pin de E-commerce Mundo Gamer"/>
-  </a>
-  <a href="https://github.com/ValentinTarantino/TurnoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=blueberry&hide_border=true&title_color=8957e5&icon_color=8957e5" alt="Pin de TurnoApp"/>
-  </a>
-</div>
-
----
-
-### 📊 Actividad en GitHub
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinTarantino&theme=blueberry&hide_border=true&color=8957e5" alt="GitHub Activity Graph"/>
+  <a href="https://www.linkedin.com/in/valentín-tarantino/">LinkedIn</a> • 
+  <a href="https://valentarantino.vercel.app/">Portfolio</a> • 
+  <a href="mailto:zaheil444@gmail.com">Email</a>
 </div>
