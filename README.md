@@ -25,24 +25,24 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, con una gran pasión p
 
 ### ✨ Proyectos Destacados
 
-<table width="100%">
-  <tr align="center">
-    <td width="50%" valign="top">
-      <h3>🛒 Ecommerce Mundo Gamer</h3>
-      <p>Plataforma de e-commerce funcional con React, Context API y Firebase.</p>
-      <strong><a href="https://github.com/ValentinTarantino/React">🔗 Ver Código</a></strong>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📅 TurnoApp</h3>
-      <p>Aplicación de gestión de turnos con roles y login de Google.</p>
-      <strong><a href="https://github.com/ValentinTarantino/TurnoApp">🔗 Ver Código</a></strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ValentinTarantino/React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=tokyonight&hide_border=true&title_color=30A3DC&icon_color=30A3DC" alt="Pin de E-commerce Mundo Gamer"/>
+  </a>
+  <a href="https://github.com/ValentinTarantino/TurnoApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=tokyonight&hide_border=true&title_color=30A3DC&icon_color=30A3DC" alt="Pin de TurnoApp"/>
+  </a>
+</div>
+
+### 🐍 Mi Historial de Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ValentinTarantino/ValentinTarantino/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 ### 📫 Conecta Conmigo
 
-<p align="center">
+<p align-center">
   <a href="https://www.linkedin.com/in/valentín-tarantino/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
