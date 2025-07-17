@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="150" alt="Valentín Tarantino">
   <h1>Valentín Thomas Tarantino</h1>
   <strong>Front-End Developer | React.js | JavaScript</strong>
 </div>
@@ -25,7 +24,7 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 
 ### 🚀 Stack Tecnológico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
 </p>
 
 ---
