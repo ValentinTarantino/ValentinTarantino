@@ -21,7 +21,7 @@ Soy un desarrollador de Buenos Aires, Argentina, apasionado por construir aplica
 
 ###  Stack Tecnológico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,sass,boostrap,firebase,nodejs,git,github" />
 </p>
 
 ---
