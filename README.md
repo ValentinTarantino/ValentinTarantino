@@ -55,9 +55,5 @@ Soy un desarrollador de Buenos Aires, Argentina, apasionado por construir aplica
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinTarantino&theme=react" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinTarantino&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
