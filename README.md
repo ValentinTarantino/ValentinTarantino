@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>Valentín Thomas Tarantino</h1>
+ <h1>Valentín Thomas Tarantino</h1>
   <strong>Front-End Developer | React.js | JavaScript</strong>
 </div>
 
@@ -24,7 +23,7 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 
 ### 🚀 Stack Tecnológico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
 </p>
 
 ---
@@ -32,10 +31,10 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 ### ✨ Proyectos Destacados
 <div align="center">
   <a href="https://github.com/ValentinTarantino/React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de E-commerce Mundo Gamer"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=React&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB&description_lines_count=2" alt="Pin de E-commerce Mundo Gamer"/>
   </a>
   <a href="https://github.com/ValentinTarantino/TurnoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Pin de TurnoApp"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinTarantino&repo=TurnoApp&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB&description_lines_count=2" alt="Pin de TurnoApp"/>
   </a>
 </div>
 
@@ -43,5 +42,6 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarantino&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
