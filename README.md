@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102927909?v=4" width="150" alt="Valentín Tarantino">
   <h1>Valentín Thomas Tarantino</h1>
   <strong>Front-End Developer | React.js | JavaScript</strong>
 </div>
@@ -11,26 +10,23 @@
   <a href="https://valentarantino.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=world&logoColor=white" />
   </a>
-  <a href="mailto:zaheil444@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 ---
 
-### 👋 Sobre Mí
-Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por construir aplicaciones web que sean tanto funcionales como visualmente atractivas. Me encanta sumergirme en el ecosistema de React para crear experiencias de usuario fluidas y eficientes. Actualmente estoy en búsqueda activa de mi primer gran desafío profesional, listo para aportar mi energía y seguir aprendiendo de un equipo talentoso.
+###  Sobre Mí
+Soy un desarrollador de Buenos Aires, Argentina, apasionado por construir aplicaciones web que sean tanto funcionales como visualmente atractivas. Me encanta sumergirme en el ecosistema de React para crear experiencias de usuario fluidas y eficientes. Estoy listo para aportar mi energía y seguir aprendiendo de un equipo talentoso.
 
 ---
 
-### 🚀 Stack Tecnológico
+###  Stack Tecnológico
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,html,css,sass,firebase,nodejs,git,github,vscode,vercel" />
 </p>
 
 ---
 
-### ✨ Proyectos Destacados
+###  Proyectos Destacados
 
 <table width="100%">
   <tr align="center">
@@ -51,7 +47,7 @@ Soy un desarrollador de Buenos Aires, Argentina 🇦🇷, apasionado por constru
 
 ---
 
-### 📊 Mis Estadísticas y Actividad
+###  Mis Estadísticas y Actividad
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValentinTarantino&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
